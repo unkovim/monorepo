@@ -1,9 +1,9 @@
 [submodule "unkovim"]
 	path = unkovim
-	url = ./unkovim
+	url = https://github.com/unkovim/unkovim.git
 [submodule "plumber"]
 	path = plumber
-	url = ./plumber/
+	url = https://github.com/unkovim/plumber.git
 [submodule "asshole"]
 	path = asshole
-	url = ./asshole
+	url = https://github.com/unkovim/asshole.git
