@@ -1,0 +1,8 @@
+{
+  "name": "unkovim",
+  "version": "1.0.0",
+  "license": "MIT",
+  "workspaces": [
+    "asshole"
+  ]
+}
